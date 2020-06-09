@@ -1,0 +1,28 @@
+
+
+#grad1{
+    background-image: linear-gradient(to right, rgb(226, 43, 43) , rgb(224, 21, 106));
+    
+}
+.img1{
+    background-image: url("2.jpg");
+    margin-top:60px;
+}
+
+.h1style{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+
+    
+}
+.formstyle{
+    color:white;
+    margin-top:20px;
+    margin-left:10px;
+}
+.container{
+    margin-top:20px;
+    margin-left:10px;
+    
+}
